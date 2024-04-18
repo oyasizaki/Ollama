@@ -24,7 +24,7 @@ docker run -d --gpus=all -v ollama:/root/.ollama -p 11435:11434 --name ollama ol
 
 ### Downloading the LLM models
 ```shell
-docker exec -it ollama ollama run `model name`
+docker exec -it ollama ollama run {model name}
 ```
 for example
 ```shell
