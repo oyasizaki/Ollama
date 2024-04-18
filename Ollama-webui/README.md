@@ -51,7 +51,7 @@ Now you will be able to see the llm models as shown in the image below
 
 
 ## OR
-* you can just insert your IP address in the command line for installing the ollama webui
+You can just insert your IP address in the command line for installing the ollama webui
 
 ```shell
 docker run -d -p 3000:8080 -e OLLAMA_BASE_URL=http://{your IP address:ollama_port} -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
