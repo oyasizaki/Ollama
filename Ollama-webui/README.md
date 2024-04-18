@@ -1,3 +1,7 @@
+
+![147204191](https://github.com/oyasizaki/Ollama/assets/118342512/e7fd2c25-35cd-418d-9e69-782d708eda54) ![favicon](https://github.com/oyasizaki/Ollama/assets/118342512/f84bfb26-803a-4743-a194-cde6424f562f)
+
+
 ## Standard Installation
 
 ### If Ollama is on your computer, use this command:
